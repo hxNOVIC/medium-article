@@ -1,0 +1,59 @@
+body {
+  font-family: Lora, serif;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-size: 18px;
+  color: #494949;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #A0A0A0;
+}
+
+.banner h1 {
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  padding: 120px 0;
+  color: white;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+.banner p {
+  font-style: italic;
+}
+
+.link-tamere {
+  background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.link-tamere:hover {
+  background-color: #7DFFB3;
+  background-image: linear-gradient(to bottom, #7DFFB3, #7DFFB3);
+}
+
+a {
+  text-decoration: none;
+}
